@@ -22,6 +22,9 @@ The core of the project lies in the "app.py" file, which contains the code for t
 
 The "templates" folder contains an HTML file that serves as the user interface for the Sentiment Analysis Flask API. The HTML file is designed to provide an intuitive and visually pleasing interface for users to interact with the API. Users can enter their review text into an input field and receive sentiment predictions by clicking the "Predict" button.
 
+![User Interface Screenshot](screenshot_browser.png)
+
+
 ## Deployment and Requirements
 
 To run the Sentiment Analysis Flask API locally, the required Python packages are listed in the "requirements.txt" file. Users can install the necessary packages using `pip install -r requirements.txt`. Additionally, the "Procfile" is included for deployment purposes, enabling the API to be deployed on platforms like Heroku (more on this soon).
