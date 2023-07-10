@@ -30,9 +30,11 @@ The "templates" folder contains an HTML file that serves as the user interface f
 To run the Sentiment Analysis Flask API locally, the required Python packages are listed in the "requirements.txt" file. Users can install the necessary packages using `pip install -r requirements.txt`. Additionally, the "Procfile" is included for deployment purposes, enabling the API to be deployed on platforms like Heroku (more on this soon).
 
 ## Blog
-Here is my article on Medium explaining the code details. 
+Here is my article (in two parts) on Medium explaining the code details. 
 
 https://medium.com/@pritigupta.ds/exploring-sentiment-analysis-using-nlp-a-simple-example-with-restaurant-reviews-78538dfb9f27
+
+https://medium.com/@pritigupta.ds/building-an-api-with-flask-making-sentiment-analysis-accessible-87936cd7609b
 
 ## Acknowledgements 
 - The dataset is taken from Udemy ML content.
